@@ -56,8 +56,11 @@ a {
 .page-header {
   color: #fff;
   text-align: center;
+  text-shadow: 2px 2px #000;
   background-color: #159957;
-  background-image: url("http://i.imgur.com/xxoeo3b.jpg"); }
+  background: url("http://i.imgur.com/xxoeo3b.jpg");
+  background-size: 150%;
+  background-position: 50%; }
 
 @media screen and (min-width: 64em) {
   .page-header {
