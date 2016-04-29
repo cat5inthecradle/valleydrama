@@ -58,7 +58,7 @@ a {
   text-align: center;
   text-shadow: 2px 2px #000;
   background-color: #159957;
-  background-image: ("http://i.imgur.com/xxoeo3b.jpg");
+  background-image: url("http://i.imgur.com/xxoeo3b.jpg");
   background-size: 150%;
   background-position: 50% 70%; }
 
