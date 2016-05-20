@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Tech
+shortTitle: Tech
 permalink: /tech/
 tags: nav
 ---

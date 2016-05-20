@@ -4,7 +4,7 @@ layout: default
 <article class="page">
 
     {% if page.image != null %}
-        <img id='hero-image' src='./{{page.image}}' />
+        <img id='hero-image' src='{{site.baseurl}}/{{page.image}}' />
     {% endif %}
     <header class="page-header">
         <h1 class="page-title">{{ page.title }}</h1>

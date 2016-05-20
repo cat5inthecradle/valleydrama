@@ -1,9 +1,10 @@
 ---
 layout: page
 title: The Play
+shortTitle: Play
 permalink: /play/
 tags: nav
-image: poster.png
+image: /images/play-poster.png
 ---
 
 __The Crucible__ is a 1953 play by the American playwright Arthur Miller. It is a dramatized and partially fictionalized story of the Salem witch trials that took place in the Province of Massachusetts Bay during 1692 and 1693.
