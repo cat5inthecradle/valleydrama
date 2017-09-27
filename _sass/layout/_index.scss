@@ -1,10 +1,24 @@
-body {}
-
 body > header {
     width: 100%;
-    background: rgb(246, 228, 203);
+    padding: 0 $spacer-2;
+
+    background-image: linear-gradient(
+        to top,
+        $blackish,
+        $blackish 75%,
+        $background-color 75%,
+        $background-color 80%,
+        $primary-color 80%
+    );
+
+    padding-bottom: $spacer-4;
+    background-size: 100% $spacer-4;
+    background-position: 50% 100%;
+    background-repeat: no-repeat;
 
     h1 {
+        font-family: $fancy-font-family;
+        font-weight: $fancy-font-weight;
         font-size: 400%;
         letter-spacing: -2px;
     }
@@ -12,12 +26,16 @@ body > header {
 
 .page-content {
     display: flex;
-    margin: $spacer-1 $spacer-2 $spacer-1 $spacer-2;
+    margin: 0 $spacer-2;
 }
 
 .page-content > nav {
+    margin-top: -$spacer-2;
     padding: $spacer-2;
+    height: 100%;
     background: $primary-color;
+
+    @include shadow-8dp();
 
     ul li {
         @extend .h4;
@@ -41,10 +59,4 @@ body > header {
 
 .page-content > main {
     padding: $spacer-2;
-    background: rgb(204, 240, 246);
-}
-
-.page-content > footer {
-    width: 100%;
-    background: rgb(226, 250, 211);
 }
