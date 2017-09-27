@@ -1,0 +1,19 @@
+@font-face {
+  font-family: "Matura";
+  src: url("/assets/maturasc.ttf");
+}
+
+$base-font-size: 16px;
+$base-font-family: 'Cabin', Arial, Helvetica, sans-serif;
+$base-font-weight: 500;
+
+$fixed-font-family: 'Andale Mono', AndaleMono, monospace;
+$fixed-font-size: 15px;
+$fixed-line-height: 1.2;
+
+
+$heading-font-family: $base-font-family;
+$heading-font-weight: 700;
+
+$fancy-font-family: 'Matura', serif;
+$fancy-font-weight: 700;
