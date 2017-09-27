@@ -2,23 +2,17 @@
 layout: default
 ---
 
-<article>
-    <section>     <!-- Add this -->
-        <h2>The Document Outline</h2>
-        <p>HTML5 includes several “sectioning content” elements that
-        affect the document outline.</p>
+<article class="post">
+    {% assign post = site.posts.first %}
+    {% assign content = post.content %}
+    <header>
+        <p class="dateline">{{ post.date | date: "%B %-d, %Y" }}</p>
+        <h1>
+            <a href="{{ root_url }}{{ post.url }}">{{ post.title }}</a>
+        </h1>
+    </header>
 
-        <h3>Headers</h3>
-        <p>The <code>&lt;header&gt;</code> element is one such sectioning
-        element.</p>
-
-        <h3>Footers</h3>
-        <p>And so is the <code>&lt;footer&gt;</code> element.</p>
-    </section>    <!-- And this -->
-
-    <section>     <!-- This too! -->
-        <h2>Inline Semantic HTML</h2>
-        <p>The <code>&lt;time&gt;</code> element is semantic, but it’s not
-        sectioning content.</p>
-    </section>    <!-- Don't forget this -->
+    <div class="typography">
+        {{ content }}
+    </div>
 </article>

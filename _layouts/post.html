@@ -2,4 +2,19 @@
 layout: default
 ---
 
-{{ content }}
+<article class="post">
+    <header>
+        <p class="dateline">
+            {{ page.date | date: "%B %-d, %Y" }}
+        </p>
+        <h1>
+            <a href="{{ root_url }}{{ page.url }}">
+                {{ page.title }}
+            </a>
+        </h1>
+    </header>
+
+    <div class="typography">
+        {{ content }}
+    </div>
+</article>

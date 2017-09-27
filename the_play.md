@@ -4,8 +4,6 @@ title: The Play
 permalink: /the_play/
 ---
 
-# The Play
-
 **Sweeney Todd: The Demon Barber of Fleet Street** is a 1979 musical thriller with music and lyrics
 by Stephen Sondheim and book by Hugh Wheeler. The musical is based on the 1973 play Sweeney Todd,
 the Demon Barber of Fleet Street by Christopher Bond. Sweeney Todd opened on Broadway in 1979 and in

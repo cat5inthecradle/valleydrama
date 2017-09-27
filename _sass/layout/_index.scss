@@ -1,0 +1,50 @@
+body {}
+
+body > header {
+    width: 100%;
+    background: rgb(246, 228, 203);
+
+    h1 {
+        font-size: 400%;
+        letter-spacing: -2px;
+    }
+}
+
+.page-content {
+    display: flex;
+    margin: $spacer-1 $spacer-2 $spacer-1 $spacer-2;
+}
+
+.page-content > nav {
+    padding: $spacer-2;
+    background: $primary-color;
+
+    ul li {
+        @extend .h4;
+        white-space: nowrap;
+
+        &:not(:first-child) {
+            margin-top: .75em;
+        }
+    }
+
+    a, a:visited {
+        color: $text-color-inverse;
+        text-decoration: none;
+    }
+
+    a:hover {
+        color: $text-color;
+    }
+
+}
+
+.page-content > main {
+    padding: $spacer-2;
+    background: rgb(204, 240, 246);
+}
+
+.page-content > footer {
+    width: 100%;
+    background: rgb(226, 250, 211);
+}

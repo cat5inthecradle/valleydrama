@@ -1,25 +1,110 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2017-09-24 19:54:29 -0500
-categories: jekyll update
+title:  "SWEENEY TODD Rehearsal Schedule: Sept. 25-30"
+date:   2017-09-24T14:04:00Z
+categories: sweeney
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+## Rehearsal Schedule
 
-Jekyll also offers powerful support for code snippets:
+### Monday, September 25: 3:30-6:3
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+Ensemble: Ball Attendees, Young Johanna, Young Lucy, Asylum Inmates, 2 Asylum Guards,
+Jonas Fogg, Pie Shoppers, Street Urchins
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+Principals Run Act 1:
+Anthony, Sweeney Todd, Mrs. Lovett, Tobias, Johanna, Beggar Woman, Judge,
+Beadle, Balding Man)
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Block 2:4: Anthony,
+Sweeney, Mr. Lovett, Tobias (4 pages)
+
++Understudies for the above roles
+
+### Tuesday, September 26: 6:00-9:30
+
+Run 2:8: Anthony, Jonas Fogg, Johanna, 2 Asylum Guards (Ethan and Sam)
+
+Block 2:6: Anthony, Sweeney, Mrs. Lovett, Beadle (3 pages)
+
+Block
+
+2:9: Judge (1 page)
+
+Block
+
+2:10: Anthony, Sweeney, A Beggarwoman, Mrs. Lovett, Turpin, Johanna (4 pages)
+
+Block
+
+2:11: Anthony, Sweeney, A Beggarwoman, Mrs. Lovett, Tobias, Johanna, Officers
+of the Watch (3 pages)
+
++Understudies for the above roles
+
+### Wednesday, September 27: 3:30-6:30
+
+Run ACT 1:
+Principles: Anthony, Sweeney Todd, Mrs. Lovett, Tobias, Johanna, Beggar Woman,
+Judge, Beadle, Balding Man
+
++Understudies for the above roles
+
+
+
+### Thursday, September 28: 6:00-9:30
+
+Run ACT 2:
+Principles: Principles: Anthony, Sweeney Todd, Mrs. Lovett, Tobias, Johanna,
+Beggar Woman, Judge, Beadle, Balding Man
+
++Understudies for the above
+roles
+
+
+
+### Friday, September 29: 3:30-6:30
+
+Market Street
+Folk/People of the Courtroom, Officers of the Watch, Lamplighter, Fleet
+Streeters, Beggars, Street Vendors, Street Urchins
+
+Run Principles with
+ENSEMBLE: Anthony, Sweeney Todd, Mrs. Lovett, Tobias, Johanna, Beggar Woman, Judge, Beadle, Balding Man
+
++Understudies for the above
+roles
+
+
+
+LOOKING
+AHEAD: MONDAY, October 2 is POTLUCK for ALL. ALL Actors/ALL CAMP/ALL TECH.
+Rehearsal is from 3:30-6:00. Potluck immediately following.
+
+
+
+### Camp Schedule
+
+**MONDAY:** 3:30-6:30: Managers, Leads, Design Team
+
+**TUESDAY:** 6:00-9:30: Production Team
+
+**WEDNESDAY:**: Managers, Leads, Design Team
+
+**THURSDAY:** 6:00-9:30: Publicity Team
+
+**FRIDAY:** 3:30-6:30: Production and Publicity Teams
+
+## Tech Schedule
+
+**MONDAY:** No Tech.
+
+**TUESDAY:** 3:30-6:30: Build.
+
+**WEDNESDAY:** No Tech.
+
+**THURSDAY:** 3:30- 6:30: Build.
+
+**FRIDAY:** No Tech.
+
+**SATURDAY:** 9:00-12:00, 1:00-4:00: Build.
